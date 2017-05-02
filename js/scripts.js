@@ -7,7 +7,7 @@ var increment = parseInt($("#add2").val());
 var count = 0;
 for (var index = 0; index < condition; index += increment){
   count = count + 1;
-  console.log(index, count);
+  $("#output").append("<p>" + index + "</p>");
 }
   });
 });
