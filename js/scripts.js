@@ -33,7 +33,7 @@ for (var index = 0; index < sentenceArray.length; index = index + 1){
 
 
 //NOTES
-// sentenceArray is the whole fucking array
+// sentenceArray is the whole array
 // sentenceArray[index] is the individual array at "index"
 //
 // if sentenceArray is a vowel{
